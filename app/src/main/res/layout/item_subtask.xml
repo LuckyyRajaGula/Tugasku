@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:paddingVertical="8dp">
+
+    <CheckBox
+        android:id="@+id/cbSubTask"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Judul Sub-Tugas"
+        android:textColor="@color/dark_text"
+        android:textSize="14sp" />
+
+    <ImageView
+        android:id="@+id/ivDeleteSubTask"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:src="@android:drawable/ic_menu_delete"
+        android:tint="@color/priority_high"
+        android:padding="4dp"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:contentDescription="Delete Sub-Tugas"/>
+</LinearLayout>

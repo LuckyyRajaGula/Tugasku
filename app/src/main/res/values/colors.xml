@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary_blue">#1C1C1E</color>
+    <color name="light_blue">#D1D1D6</color>
+    <color name="dark_blue">#000000</color>
+
+    <!-- Status Colors -->
+    <color name="status_yellow">#FFC107</color>
+    <color name="status_orange">#FF9500</color>
+    <color name="status_green">#34C759</color>
+
+    <!-- Priority Colors -->
+    <color name="priority_high">#FF3B30</color>
+    <color name="priority_medium">#FFC107</color>
+    <color name="priority_low">#34C759</color>
+
+    <!-- Text Colors -->
+    <color name="dark_text">#1C1C1E</color>
+    <color name="gray_text">#636366</color>
+    <color name="light_gray_text">#D1D1D6</color>
+
+    <!-- Background Colors -->
+    <color name="background_light">#F2F2F7</color>
+    <color name="card_background">#FFFFFF</color>
+
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#E5E5EA</color>
+    <color name="gradient_end">#FAFAFA</color>
+
+    <!-- Header Background -->
+    <color name="header_background">#1C1C1E</color>
+
+    <!-- FAB Icon Color -->
+    <color name="fab_icon_color">#FFFFFF</color>
+
+    <!-- System Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+</resources>
